@@ -13,5 +13,6 @@ $subscription_urls = [
   "https://raw.githubusercontent.com/Surfboardv2ray/Subs/main/Realm",
   "https://msdonor.pages.dev/sub/7f035a95-4b51-4e0b-8995-59864a9cde22#CryptoGuardVPN",
   "https://msdonor.pages.dev/sub/7f035a95-4b51-4e0b-8995-59864a9cde22#BPB-Normal",
+  "https://raw.githubusercontent.com/xc0000e9/deatnote/main/Hiddify-next.fragment",
 
 ];
