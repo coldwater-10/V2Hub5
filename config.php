@@ -16,5 +16,9 @@ $subscription_urls = [
   "https://raw.githubusercontent.com/xc0000e9/deatnote/main/Hiddify-next.fragment",
   "https://hiddify-freevpnhomes-subscription.meshkintaj.homes",
   "https://fragment-freevpnhomes-subscription.meshkintaj.homes",
+  "https://sub.xornot.ir/api/prossh.php",
+  "https://raw.githubusercontent.com/proSSHvpn/proSSHvpn/main/sub",
+
+
 
 ];
