@@ -19,6 +19,4 @@ $subscription_urls = [
   "https://sub.xornot.ir/api/prossh.php",
   "https://raw.githubusercontent.com/proSSHvpn/proSSHvpn/main/sub",
 
-
-
 ];
