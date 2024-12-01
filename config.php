@@ -19,5 +19,6 @@ $subscription_urls = [
   "https://sub.xornot.ir/api/prossh.php",
   "https://raw.githubusercontent.com/proSSHvpn/proSSHvpn/main/sub",
   "http://103.196.20.127/api/v1/client/subscribe?token=ba1205a8193bdf364fc70eb5bd5efb0d#subscribe?token=ba1205a8193bdf364fc70eb5bd5efb0d",
+  "https://raw.githubusercontent.com/iPsycho1/Subscription/refs/heads/main/iPsycho-Fastly",
 
 ];
